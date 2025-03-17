@@ -4,5 +4,8 @@
 -- Spec for "folke/which-key.nvim".
 return {
     "folke/which-key.nvim",
-    event = "VeryLazy"
+    event = "VeryLazy",
+		config = function()
+			require("which-key").setup()
+		end
 }
