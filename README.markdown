@@ -10,7 +10,7 @@ you can do so by cloning this repository into your Neovim configuration
 directory with the following command:
 
 ```bash
-git clone https://github.com/alyxshang/alyx.nvim $HOME/.config/nvim
+git clone https://github.com/alyxshang/alyx.nvim ~/.config/nvim
 ```
 
 ## INFO :gear:
