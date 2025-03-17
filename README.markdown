@@ -25,9 +25,10 @@ My configuration uses the following plugins:
 - [`nvim-telescope/telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim): A plugin to have a file finder
   present.
 - [`rebelot/kanagawa.nvim`](https://github.com/rebelot/kanagawa.nvim):
-  A good color theme for weebs.
+  A good color theme for little weebs~.
 - [`nvim-tree/nvim-tree.lua`](https://github.com/nvim-tree/nvim-tree.lua): A plugin to see one's project files.
 - [`nvim-treesitter/nvim-treesitter`](https://github.com/nvim-treesitter/nvim-treesitter): A plugin to add syntax highlighting for different programming languages.
+- [`folke/which-key.nvim`](https://github.com/folke/which-key.nvim): A plugin for helping me remember my keymaps.
 
 To view the configured keymaps, please view my keymap configuration
 [here](lua/config/keymaps.lua).
