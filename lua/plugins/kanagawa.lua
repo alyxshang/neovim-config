@@ -10,6 +10,5 @@ return {
 	        transparent = true
 	    }
 	)
-	vim.cmd("colorscheme kanagawa")
     end
 }
