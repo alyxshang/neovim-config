@@ -9,18 +9,18 @@ return {
         lspconfig.rust_analyzer.setup {
             settings = {
                 ['zls'] = {},
-                 ['dartls'] = {},
+                ['dartls'] = {},
                 ['rust-analyzer'] = {},
-	               ['ocamllsp'] = {},
-		              ['clangd'] = {},
-	               ['deno-lsp'] = {
-	                   on_attach = on_attach,
-	                   root_dir = lspconfig.util.root_pattern(
-	                       "deno.json", 
-		                      "deno.jsonc"
-	                 ),
-	              }
-	          },
+	        ['ocamllsp'] = {},
+		['clangd'] = {},
+	        ['deno-lsp'] = {
+	            on_attach = on_attach,
+	            root_dir = lspconfig.util.root_pattern(
+	                "deno.json", 
+		        "deno.jsonc"
+	            ),
+	        }
+	    },
         }
     end
 }
