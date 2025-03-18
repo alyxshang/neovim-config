@@ -10,6 +10,8 @@ return {
 	        ensure_installed = { 
 		    "c", 
 		    "lua", 
+		    "zig",
+		    "dart",
 		    "rust",
 		    "typescript",
 		    "ocaml",	
