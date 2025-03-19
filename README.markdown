@@ -39,6 +39,11 @@ My configuration uses the following plugins:
 To view the configured keymaps, please view my keymap configuration
 [here](lua/config/keymaps.lua).
 
+## TODO :hammer:
+
+- [ ] Vim Motions.
+- [ ] Keymap for changing focus between `NvimTree` and the buffer.
+
 ## NOTE :scroll:
 
 - *Alyx.nvim :dragon_face: :black_heart: :woman_technologist:* by *Alyx Shang :black_heart:*.
