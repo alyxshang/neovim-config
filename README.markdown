@@ -41,7 +41,8 @@ To view the configured keymaps, please view my keymap configuration
 
 ## TODO :hammer:
 
-- [ ] Vim Motions.
+- [ ] Plugin for LSP suggestions.
+- [ ] Custom mappings for Vim Motions.
 - [ ] Keymap for changing focus between `NvimTree` and the buffer.
 
 ## NOTE :scroll:
