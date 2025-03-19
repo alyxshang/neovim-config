@@ -1,3 +1,7 @@
+-- Alyx.nvim by Alyx Shang.
+-- Licensed under the FSL v1.
+
+-- Spec for "simrat39/rust-tools.nvim".
 return {
   'simrat39/rust-tools.nvim',
   config = function()
