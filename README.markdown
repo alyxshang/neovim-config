@@ -35,6 +35,7 @@ My configuration uses the following plugins:
 - [`nvim-tree/nvim-tree.lua`](https://github.com/nvim-tree/nvim-tree.lua): A plugin to see one's project files.
 - [`nvim-treesitter/nvim-treesitter`](https://github.com/nvim-treesitter/nvim-treesitter): A plugin to add syntax highlighting for different programming languages.
 - [`folke/which-key.nvim`](https://github.com/folke/which-key.nvim): A plugin for helping me remember my keymaps.
+- [`simrat39/rust-tools.nvim`](https://github.com/simrat39/rust-tools.nvim): A plugin for Rust-related LSP functionality.
 
 To view the configured keymaps, please view my keymap configuration
 [here](lua/config/keymaps.lua).
