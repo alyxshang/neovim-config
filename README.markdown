@@ -40,6 +40,10 @@ My configuration uses the following plugins:
 To view the configured keymaps, please view my keymap configuration
 [here](lua/config/keymaps.lua).
 
+## SCREENSHOT :camera:
+
+![A screenshot of my setup](screenie/screenie.png)
+
 ## TODO :hammer:
 
 - [ ] Plugin for LSP suggestions.
