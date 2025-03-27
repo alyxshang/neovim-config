@@ -36,6 +36,11 @@ My configuration uses the following plugins:
 - [`nvim-treesitter/nvim-treesitter`](https://github.com/nvim-treesitter/nvim-treesitter): A plugin to add syntax highlighting for different programming languages.
 - [`folke/which-key.nvim`](https://github.com/folke/which-key.nvim): A plugin for helping me remember my keymaps.
 - [`simrat39/rust-tools.nvim`](https://github.com/simrat39/rust-tools.nvim): A plugin for Rust-related LSP functionality.
+- [`saghen/blink.cmp`](https://github.com/saghen/blink.cmp): A plugin for autocompletions.
+  - Depends: [`rafamadriz/friendly-snippets`](https://github.com/rafamadriz/friendly-snippets)
+- [`nvim-flutter/flutter-tools.nvim`](https://github.com/nvim-flutter/flutter-tools.nvim): LSP tooling for Flutter.
+  - Depends: [`nvim-lua/plenary.nvim`](https://github.com/nvim-lua/plenary.nvim)
+  - Depends: [`stevearc/dressing.nvim`](https://github.com/stevearc/dressing.nvim)
 
 To view the configured keymaps, please view my keymap configuration
 [here](lua/config/keymaps.lua).
