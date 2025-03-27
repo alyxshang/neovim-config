@@ -42,6 +42,8 @@ My configuration uses the following plugins:
   - Depends: [`nvim-lua/plenary.nvim`](https://github.com/nvim-lua/plenary.nvim)
   - Depends: [`stevearc/dressing.nvim`](https://github.com/stevearc/dressing.nvim)
 
+## KEY MAPPINGS :keyboard:
+
 To view the configured keymaps, please view my keymap configuration
 [here](lua/config/keymaps.lua).
 
